@@ -1,7 +1,7 @@
-  # Queen-Anita-V4
+  # krugar-Anita-V4
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center"> 
-<u>⚡ A simple WhatsApp User Bot Coded By David Cyril ⚡</u>
+<u>⚡ A simple WhatsApp User Bot Coded By krugar ⚡</u>
 </p>
 <p align="center">
 <img src="https://files.catbox.moe/jd0s4p.jpg"/>       
