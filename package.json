@@ -4,9 +4,9 @@
   "description": "A powerful Multi-Device WhatsApp Bot featuring various utilities and media tools.",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --name Queen_Anita-V4 --deep-monitoring --attach",
-    "stop": "pm2 stop Queen_Anita-V4",
-    "restart": "pm2 restart Queen_Anita-V4"
+    "start": "pm2 start index.js --name krugar_Anita-V4 --deep-monitoring --attach",
+    "stop": "pm2 stop king_krugar-V4",
+    "restart": "pm2 restart krugar_Anita-V4"
   },
   "author": "krugar Cyril",
   "license": "MIT",
