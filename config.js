@@ -1,9 +1,9 @@
 require('dotenv').config(); 
 
-global.owner = process.env.OWNER_NUMBER; 
-global.anitav4 = process.env.BOT_NAME || "𝐐𝐔𝐄𝐄𝐍_𝐀𝐍𝐈𝐓𝐀-𝐕𝟒";
-global.ownername = process.env.OWNER_NAME || "David Cyril";
-global.packname = process.env.PACK_NAME || "𝐐𝐔𝐄𝐄𝐍_𝐀𝐍𝐈𝐓𝐀-𝐕𝟒";
+global.owner = process.env.OWNER_NUMBER; 78615687
+global.anitav4 = process.env.BOT_NAME || "krugar_𝐀𝐍𝐈𝐓𝐀-𝐕𝟒";
+global.ownername = process.env.OWNER_NAME || "krugar";
+global.packname = process.env.PACK_NAME || "krugar_𝐀𝐍𝐈𝐓𝐀-𝐕𝟒";
 global.author = process.env.AUTHOR || "𝐃𝐀𝐕𝐈𝐃 𝐂𝐘𝐑𝐈𝐋";
 global.channelname = process.env.CHANNEL_NAME || "𝐃𝐀𝐕𝐈𝐃 𝐂𝐘𝐑𝐈𝐋";
 global.channeljid = process.env.CHANNEL_JID || "120363315231436175@newsletter";
@@ -13,7 +13,7 @@ global.autoViewStatus = process.env.AUTO_VIEW_STATUS === 'true';
 global.AUTOSTATUS_REACT = process.env.AUTOSTATUS_REACT === 'true';
 global.autoLikeEmoji = process.env.AUTO_LIKE_EMOJI || "💚";
 
-global.LEVELUP = process.env.LEVELUP === 'true';
+global.LEVELUP = process.env.LEVELUP === 'false';
 
 global.ANTIVIEWONCE = process.env.ANTIVIEWONCE === 'true';
 
